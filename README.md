@@ -5,6 +5,9 @@ P: Pirate
 E: Exploration
 M: Transport
 R: Rescue Ship
+
+
+
 Map:
 
 ![Map Image](map.png)
